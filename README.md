@@ -103,7 +103,7 @@ plt.show()
 
 ### Results 
 
-![Likelihood of Skills Requested in France Job Postings](images\skills_demand.png)
+![Likelihood of Skills Requested in France Job Postings](<images\skills_demand.png>)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
@@ -144,7 +144,7 @@ for i in range(5):
 
 ### Results
 
-![Trending Top Skills for Data Analysts in France](images\skills_trend.png)  
+![Trending Top Skills for Data Analysts in France](<images\skills_trend.png>)  
 *Line graph visualizing the trending top skills for data analysts in France in 2023.*
 
 ### Insights:
@@ -177,7 +177,7 @@ plt.xlim(0,600000)
 
 The graph is not that appealing and doesnt look that informative. The salary is in USD in the data source while the currency in France is in Euro. This plot works accurately with only US job data.
 
-![Salary Distributions of Data Jobs in France](images\salary_analysis.png)  
+![Salary Distributions of Data Jobs in France](<images\salary_analysis.png>)  
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -215,7 +215,7 @@ fig.tight_layout()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in France:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in France](images\top_pay_n_high_demand_skills.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in France](<images\top_pay_n_high_demand_skills.png>)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in France*
 
 #### Insights:
@@ -262,7 +262,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in France](images\optimal_skills.png)    
+![Most Optimal Skills for Data Analysts in France](<images\optimal_skills.png>)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in France.*
 
 #### Insights:
@@ -295,7 +295,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in France with Coloring by Technology](images\technology_colored.png)  
+![Most Optimal Skills for Data Analysts in France with Coloring by Technology](<images\technology_colored.png>)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in France with color labels for technology.*
 
 #### Insights:
