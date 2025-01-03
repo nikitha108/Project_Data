@@ -1,3 +1,4 @@
+# Data Analyst Job Trends in France
 # Introduction
 
 Welcome to my analysis of the data job market. This project was created out of a desire to navigate and understand the job market more effectively. It delves into the top-paying and in-demand skills to help find optimal job opportunities in data roles. I have created it so that I can filter it for a specific country or a specific job role. Since I am focusing on data analyst roles in France, my project will insights will be on that.
