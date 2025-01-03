@@ -101,7 +101,7 @@ fig.tight_layout(h_pad=0.5)
 plt.show()
 ```
 
-### Results
+### Results 
 
 ![Likelihood of Skills Requested in France Job Postings](images\skills_demand.png)
 
